@@ -1,4 +1,3 @@
-# SPS-3021-People-Counting-and-Tracking-System
 ## PEOPLE COUNTING AND TRACKING SYSTEM
 ### Project Idea
 * Real-time people flow estimation can be very useful to gain insights for many commercial and non-commercial applications. 
